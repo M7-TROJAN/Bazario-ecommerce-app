@@ -1,11 +1,10 @@
-<!-- Electro: ASP.NET Core MVC E-commerce Project 🛍️💻 -->
+<!-- Electro: ASP.NET Core MVC E-commerce Project  -->
 
-# Electro: ASP.NET Core MVC E-commerce Project
+# Electro Bazario: ASP.NET Core MVC E-commerce Project
 
 ## Introduction
 
-Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project! Crafted during our 9-month ITI Assiut Branch internship, this project represents a fusion of innovation and dedication.
-
+Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project!
 ## Project Overview
 
 - **Design Pattern:** Engineered with the elegance of MVC (Model-View-Controller) architecture.
@@ -37,21 +36,3 @@ Welcome to Electro, our sleek and powerful ASP.NET Core MVC e-commerce project! 
 - **Backend Brilliance:** Powered by C# and the artistry of OOP.
 - **Database Wizardry:** SQL Server and Entity Framework dance in perfect harmony.
 - **Frontend Finesse:** HTML, CSS, JavaScript, jQuery, and Bootstrap form the canvas of our masterpiece.
-
-## Our Team 🙌💼
-
-Meet the brilliant minds behind Electro:
-
-- Mahmoud Sadek
-- Omar Ahmed Abo Ziada
-- Mahmoud Mohamed
-- Saeed Mohamed
-- Mohammed Abdelraheem
-- Anas Ashraf
-- Abdallah Refaey
-
-## Acknowledgements
-
-Massive gratitude to our mentor, Eng. Christen Zarif, whose guidance was the wind beneath our wings at ITI. 
-A heartfelt thank you to Eng. Ayman Ayad, the Maestro of ITI Assiut Branch, for nurturing our growth in a vibrant learning environment.
-
